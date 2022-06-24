@@ -1,0 +1,47 @@
+{
+    "#button":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\button.png"
+            },
+            "hovered_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\buttonhover.png"
+            },
+            "selected_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\buttonselected.png"
+            }
+        }
+    },
+    "#loadbutton":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\Load.png"
+            },
+            "hovered_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\loadhover.png"
+            },
+            "selected_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\loadselected.png"
+            }
+        }
+    },
+    "#quitbutton":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\quit.png"
+            },
+            "hovered_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\quithover.png"
+            },
+            "selected_image": {
+                "path": "C:\\Users\\angel\\Desktop\\Programming Related\\Python\\testPygameRPG\\quitselected.png"
+            }
+        }
+    }
+}
